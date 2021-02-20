@@ -1,6 +1,6 @@
 # Valhalla Contact Form Plugin
 
-This contact form plugin is derivived from the well known Contact Form 7 for WordPress. It has Bootstrap 4 integrated, Google Maps, easy to use form builder, customization options, advanced settings, etc. It's built to work flawlessly with the Valhalla WordPress Theme, but we don't guarantee its layout consistence with any other themes.
+This contact form plugin is derived from the well-known Contact Form 7 for WordPress. It has Bootstrap 4 integrated, Google Maps, easy to use form builder, customization options, advanced settings, etc. It's built to work flawlessly with the Valhalla WordPress Theme, but we don't guarantee its layout consistency with any other themes.
 
 ## Screenshot
 <p align="center">
